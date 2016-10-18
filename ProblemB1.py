@@ -1,2 +1,1 @@
-time = 5
-print(time)
+print(input("Test"))
